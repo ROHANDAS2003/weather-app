@@ -37,11 +37,8 @@ After cloning, your project folder should look like this:
 weather-app/
 
 │
-
 ├── weather_app.py # Main Python script
-
 ├── api_key.py # File that stores your API key
-
 └── README.md # Project documentation
 
 ## Setting Up the API Key
