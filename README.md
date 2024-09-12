@@ -24,7 +24,7 @@ To clone this repository to your local machine, follow these steps:
 1. Open a terminal or command prompt.
 2. Run the following command to clone the repository:
 
-git clone <https://github.com/your-username/weather-app.git>
+git clone <https://github.com/ROHANDAS2003/weather-app>
 
 1. Navigate to the cloned repository:
 
